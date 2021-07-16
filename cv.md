@@ -1,7 +1,7 @@
 
 # Olena Hodyna #
 
-![](//photo_2020-11-27_19-28-29.jpg "Olena Hodyna")
+![](//photo_2020-11-27_19-28-29.jpg/100*100 "Olena Hodyna")
 ### Date of birth: ###
  June 16, 1989
 ### Citizenship: ###
@@ -33,17 +33,18 @@ residential address: Warszaw, Poland
 
 ## Skills: ##
 Computer knowledge level - confident user
-### Knowledge of specialized programs: ##№
+### Knowledge of specialized programs: ##
     - Photoshop
     - Visual Studio Code
     - MS Office
-### programming languages:###
+    
+### Programming languages:###
     - HTML
     - CSS
+    - JavaScript
 
 ## Code examples: ##
- - Limitless_1 [Limitless_1]()
- - Meeting_room [Meeting_room]()
- - Education middle [Education middle]()
+ - Limitless_1 [Limitless_1](https://aeternus2020.github.io/Limitless_1/)
+ - WorkSchedule [WorkSchedule](https://aeternus2020.github.io/WorkSchedule/)
 
 ## English level - Pre-Intermediate ##
