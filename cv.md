@@ -1,7 +1,7 @@
 
 # Olena Hodyna #
 
-![](//photo_2020-11-27_19-28-29.jpg/100*100 "Olena Hodyna")
+![](photo_2020-11-27_19-28-29.jpg/100*100 "Olena Hodyna")
 ### Date of birth: ###
  June 16, 1989
 ### Citizenship: ###
@@ -33,12 +33,12 @@ residential address: Warszaw, Poland
 
 ## Skills: ##
 Computer knowledge level - confident user
-### Knowledge of specialized programs: ##
+### Knowledge of specialized programs: ###
     - Photoshop
     - Visual Studio Code
     - MS Office
     
-### Programming languages:###
+### Programming languages: ###
     - HTML
     - CSS
     - JavaScript
